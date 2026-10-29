@@ -19,6 +19,7 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Fikir
 | 🔒 [Demonicat](https://github.com/HalittBulut/demonicat) | Şeytani kedi Kömür'lü FPS game jam oyunu (2 kişilik takım) | Godot 4 |
 | 🔒 [Asset Maker](https://github.com/HalittBulut/asset-maker) | İnternetsiz çalışan 2D oyun asset üretim aracı | C# · Avalonia · Python |
 | 🔒 [Kuyu Başı](https://github.com/HalittBulut/kuyu-basi) | Su akışı simülasyonlu çiftlik clicker | Godot 4 |
+| 🔒 [Çalışma Arkadaşım](https://github.com/HalittBulut/calisma-arkadasim) | Seninle ders çalışan, odaklandıkça seviye atlayan masaüstü karakteri | Electron · JavaScript |
 | [Zümrüt Vadi](https://github.com/HalittBulut/zumrut-vadi) | 2D tower defense, dalga sistemi ve olay günlüğü | Unity · C# |
 
 ### Laboratuvar ve ders projeleri
@@ -29,5 +30,7 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Fikir
 | [Makale Graf Analizi](https://github.com/HalittBulut/makale-graf-analiz) | Atıf ağında betweenness, k-core ve H-index analizi | C++ · Qt |
 | [Terminal Notepad](https://github.com/HalittBulut/terminal-notepad) | Windows konsolunda çalışan metin editörü | C |
 | [Roll a Ball](https://github.com/HalittBulut/roll-a-ball) | Elmas toplamalı 3D top oyunu | Unity · C# |
+| [NYP Lab'ları](https://github.com/HalittBulut/nyp-lablari) | Kütüphane analitiği ve akıllı ev cihazları simülasyonu | Java |
+| [Veri Yapıları](https://github.com/HalittBulut/veri-yapilari) | Bağlı liste, kuyruk, yığın, sıralama ve arama | C |
 
 🔒 işaretli projelerin kodu kapalı, depoları tanıtım amaçlı.
